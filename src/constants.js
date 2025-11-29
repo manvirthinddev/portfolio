@@ -132,14 +132,5 @@ export const projects = [
     github: "https://github.com/manvirthinddev/carAnimation",
     webapp: "https://rainbow-queijadas-1c3893.netlify.app/",
   },
-  {
-    id: 7,
-    title: "Book Hub",
-    description:
-      "A playful animation project showcasing a moving car made with React. Built using CSS animations for smooth and fun visual movement.",
-    image: ,
-    tags: ["React", "CSS Animation", "Frontend Fun"],
-    github: "",
-    webapp: "littlebookhub.com",
-  },
+
 ];
